@@ -63,4 +63,4 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 What I want to make based off of this project:
 
-- [ ] FHE Event Planner
+- [ ] Event Planner
