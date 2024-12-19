@@ -82,6 +82,8 @@ while True:
     else: print("Invalid Selection")
 
 
+# [notes to self]
+
 # advance = False   # flag for valid user input, allowing program to advance
 # action = input("Is there anything else? [Y/n] ").lower()
 # advance = True if action == "y" else False
