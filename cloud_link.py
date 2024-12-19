@@ -31,7 +31,7 @@ while True: # loop until user has made a valid input
 
     data = document.to_dict() # make it readable, store in a new variable
     if data is None:    # if it has no data, i.e., if it was an invalid input
-        print("No data under that name") # [[[shouldn't actually be the case with Firestore]]]
+        print("No document under that name") # [[[shouldn't actually be the case with Firestore]]]
     else:
         print("..........")
         print("Document: ", document.id)
